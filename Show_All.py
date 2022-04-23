@@ -24,3 +24,4 @@ for student in DB.cursor:
     Save_btn.grid(row=i, column=j, pady=2)
 
 my_w.mainloop()
+
